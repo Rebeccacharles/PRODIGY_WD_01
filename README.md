@@ -1,4 +1,4 @@
-# LandingPage
+# Prodigy InfoTech-LandingPage
 Greetings Everyone,
 
 I'm thrilled to unveil a project  – the dynamic Landing Page of [RISE AND SHINE WEBSITE]. Immerse yourself in an interactive experience that goes beyond the ordinary. Crafted meticulously with HTML, CSS, and JavaScript, this landing page is not just responsive; it's a visual delight.
